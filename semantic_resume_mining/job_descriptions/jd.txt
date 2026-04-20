@@ -1,0 +1,22 @@
+We are looking for a Data Science candidate with strong fundamentals in
+Python and SQL. The candidate should have knowledge of Data Science,
+Machine Learning, and basic Deep Learning concepts.
+
+Responsibilities:
+- Data cleaning and preprocessing
+- Building machine learning models
+- Working with real-world datasets
+- Performing data analysis and visualization
+
+Required Skills:
+- Python
+- SQL
+- Data Science
+- Machine Learning
+- Deep Learning
+- Basic knowledge of NLP is a plus
+
+Education:
+- B.Tech / B.E in Computer Science, Artificial Intelligence, or Data Science
+
+Freshers and students with project experience are encouraged to apply.
